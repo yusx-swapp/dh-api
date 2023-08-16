@@ -1,4 +1,4 @@
-{"results":[{'id': 1,
+[{'id': 1,
   'doctor_name': 'Chris Martinez',
   'doctor_image': 'https://example.com/images/doc1.jpg',
   'hospital_name': 'Wellness Center',
@@ -137,4 +137,4 @@
   'hospital_name': 'LifeCare Hospital',
   'available_time': '13:00 - 14:00',
   'appointment_website': 'https://hospitalB.com/appoint',
-  'comments': 'Dr. Martinez is a orthopedic with over 6 years of experience.'}]}
+  'comments': 'Dr. Martinez is a orthopedic with over 6 years of experience.'}]
